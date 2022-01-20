@@ -1,5 +1,5 @@
 # my-achivement-2022
           
           
-          Place |   
-IAU ctf :  7th
+          the ctf name |   Place   |   from   |   Score   |    
+            IAU ctf    |    7th        118        8876
