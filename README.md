@@ -2,6 +2,6 @@
           
           
 # ctf
-          |   Place   |   from   |   Score   |  the ctf name |   
-          |    7th    |   118    |   8876    |    CSC_CTF    |
-          |    unk    |   unk    |   unk     |   knightctf   |
+          |   Place    |   from   |   Score   |  the ctf name |   
+          |    07th    |   118    |   8876    |    CSC_CTF    |
+          |    53th    |   530    |   3775    |   knightctf   |
